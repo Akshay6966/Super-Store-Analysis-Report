@@ -5,7 +5,7 @@ https://app.powerbi.com/groups/me/reports/8254aa49-c2fc-48e6-967c-fffd5e0db0e7/b
 
 ## Project Background
 
-The "Super Store Sales Analysis" project focuses on the comprehensive examination of sales data for Technoedge Learning Services. This analysis was conducted to gain actionable insights into sales performance, customer behavior, and regional trends, enabling data-driven decision-making for business growth.
+The "Sales Analysis" project focuses on the comprehensive examination of sales data for Super Store. This analysis was conducted to gain actionable insights into sales performance, customer behavior, and regional trends, enabling data-driven decision-making for business growth.
 
 ## Executive Summary 
 
